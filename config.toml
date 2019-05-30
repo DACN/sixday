@@ -1,6 +1,7 @@
 baseURL = "/"
 languageCode = "en-gb"
 title = "Scottish Six Days"
+publishDir = "docs"
 
 [permalinks]
    blog = "/:filename/"
