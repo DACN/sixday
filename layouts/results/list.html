@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<!-- <div id="nav-border" class="container">-->
+<div>
+ <ul class="list-group">
+  {{ range .Site.Menus.results }}
+    {{ $icon := printf "<i data-feather=\"%s\"></i>" .Pre }}
+    {{ $text := print $icon " " .Name | safeHTML }}
+    <li class="list-group-item"><a class="nav-link" href="{{ .URL }}">{{ $text }}</a></li>
+  {{ end }}
+  </ul>
+</div>
+
+
+{{ end }}

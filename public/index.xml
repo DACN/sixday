@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scottish Six Days</title>
+    <link>/</link>
+    <description>Recent content on Scottish Six Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 29 May 2019 18:19:11 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Day 1</title>
+      <link>/news/day_1/</link>
+      <pubDate>Wed, 29 May 2019 18:19:11 +0100</pubDate>
+      
+      <guid>/news/day_1/</guid>
+      <description>Day 1 yada yada yada</description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>/news/day_2/</link>
+      <pubDate>Wed, 29 May 2019 18:19:11 +0100</pubDate>
+      
+      <guid>/news/day_2/</guid>
+      <description>Day 2 yada yada yada</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/front/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/front/</guid>
+      <description>This is front.md</description>
+    </item>
+    
+  </channel>
+</rss>

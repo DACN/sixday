@@ -1,0 +1,68 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "Scottish Six Days"
+
+[permalinks]
+   blog = "/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Results"
+    pre = "file-text"
+    url = "/results/"
+    weight = 2
+  [[menu.main]]
+    name = "Programme and News"
+    pre = "file"
+    url = "/news/"
+    weight = 3
+
+  [[menu.results]]
+    name = "Live results"
+    pre = "link"
+    url = "/results/live/"
+    weight = 1
+  [[menu.results]]
+    name = "Day 1 - Auchingarrich"
+    pre = "link"
+    url = "/results/day_1/"
+    weight = 2
+  [[menu.results]]
+    name = "Day 2 - Edinchip"
+    pre = "link"
+    url = "/results/day_2/"
+    weight = 3
+  [[menu.results]]
+    name = "Day 3 - Dundurn & Cnoc a’Mhadaidh"
+    pre = "link"
+    url = "/results/day_3/"
+    weight = 4
+  [[menu.results]]
+    name = "Wednesday - Rest Day - Sprint"
+    pre = "link"
+    url = "/results/sprint/"
+    weight = 5
+  [[menu.results]]
+    name = "Day 4 - Culteuchar and Dron"
+    pre = "link"
+    url = "/results/day_4/"
+    weight = 6
+  [[menu.results]]
+    name = "Day 5 - Craig a’Barns"
+    pre = "link"
+    url = "/results/day_5/"
+    weight = 7
+  [[menu.results]]
+    name = "Day 6 - Grandtully"
+    pre = "link"
+    url = "/results/day_6/"
+    weight = 8
+
+
+[params]
+  homeText = "Any important bulletins go here"
