@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
-title = "Scottish Six Days"
+title = "Scottish 6 Days"
 publishDir = "docs"
 
 [permalinks]
@@ -19,7 +19,7 @@ publishDir = "docs"
     weight = 2
   [[menu.main]]
     name = "Programme and News"
-    pre = "file"
+    pre = "info"
     url = "/news/"
     weight = 3
 
