@@ -9,6 +9,11 @@
   </url>
   
   <url>
+    <loc>/bulletin/</loc>
+    <lastmod>2019-05-29T18:19:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/news/day_1/</loc>
     <lastmod>2019-05-29T18:19:11+01:00</lastmod>
   </url>
@@ -19,13 +24,13 @@
   </url>
   
   <url>
-    <loc>/news/</loc>
+    <loc>/news/general/</loc>
     <lastmod>2019-05-29T18:19:11+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/front/</loc>
-    <priority>0</priority>
+    <loc>/news/</loc>
+    <lastmod>2019-05-29T18:19:11+01:00</lastmod>
   </url>
   
   <url>

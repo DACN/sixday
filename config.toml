@@ -22,7 +22,6 @@ publishDir = "docs"
     pre = "info"
     url = "/news/"
     weight = 3
-
   [[menu.results]]
     name = "Live results"
     pre = "link"
@@ -49,21 +48,22 @@ publishDir = "docs"
     url = "/results/sprint/"
     weight = 5
   [[menu.results]]
+    name = "Wednesday - Rest Day - Trail O"
+    pre = "link"
+    url = "/results/trailo/"
+    weight = 6
+  [[menu.results]]
     name = "Day 4 - Culteuchar and Dron"
     pre = "link"
     url = "/results/day_4/"
-    weight = 6
+    weight = 7
   [[menu.results]]
     name = "Day 5 - Craig a’Barns"
     pre = "link"
     url = "/results/day_5/"
-    weight = 7
+    weight = 8
   [[menu.results]]
     name = "Day 6 - Grandtully"
     pre = "link"
     url = "/results/day_6/"
-    weight = 8
-
-
-[params]
-  homeText = "Any important bulletins go here"
+    weight = 9
