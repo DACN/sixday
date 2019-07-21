@@ -5,179 +5,726 @@ date: 2019-05-29T18:19:11|01:00
 tags: []
 draft: false
 ---
-#### Strathearn 2019 -- Provisional Course lengths & climbs -- 
+#### Strathearn 2019 -- Provisional Course lengths & climbs
 
 **Data correct as of 4th July 2019**
 
-Day |  Day
-----|-----
-stu |ad
-    |
-asd | stuff
 
-Course | Start | Classes
----|---------|------------------
- 1 | White   | M10B W10B
- ---|---------|------------------
- 2 | White   | M10A M12B W10A W12B
- ---|---------|------------------
- 3 | White   | W12A W14B
+<table class="table">
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>Course</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p><strong>Day 1</strong></p>
+</blockquote></th>
+<th><strong>Day 2</strong></th>
+<th><blockquote>
+<p><strong>Day 3</strong></p>
+</blockquote></th>
+<th><strong>Day 4</strong></th>
+<th><blockquote>
+<p><strong>Day 5</strong></p>
+</blockquote></th>
+<th><blockquote>
+<p><strong>Day 6</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><blockquote>
+<p>Auchingarrich</p>
+</blockquote></td>
+<td><blockquote>
+<p>Edinchip</p>
+</blockquote></td>
+<td><blockquote>
+<p>Dundurn &amp; <br />Cnoc a’Mhadaidh</p>
+</blockquote></td>
+<td><blockquote>
+<p>Culteuchar <br />&amp; Dron</p>
+</blockquote></td>
+<td><blockquote>
+<p>Craig a’Barns</p>
+</blockquote></td>
+<td>Grandtully</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>1</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1.84km 40m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.76km 30m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.29km 5m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.23km 75m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.1km 75m</p>
+</blockquote></td>
+<td>2.24km 20m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>2</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.42km 70m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.07km 50m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.19km 15m</p>
+</blockquote></td>
+<td>2.54km 100m</td>
+<td><blockquote>
+<p>2.28km 60m</p>
+</blockquote></td>
+<td>2.3km 40m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>3</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.57km 65m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.76km 65m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.42km 5m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.6km 125m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.03km 95m</p>
+</blockquote></td>
+<td>2.72km 70m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>4</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.94km 70m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.13km 95m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.64km 10m</p>
+</blockquote></td>
+<td>3.62km 160m</td>
+<td><blockquote>
+<p>3.46km 150m</p>
+</blockquote></td>
+<td>3.09km 80m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>5</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1.76km 55m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.62km 40m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.12km 30m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.03km 90m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.95km 85m</p>
+</blockquote></td>
+<td>1.58km 10m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>6</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.18km 65m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.85km 75m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.32km 45m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.22km 90m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.91km 90m</p>
+</blockquote></td>
+<td>1.68km 10m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>7</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.4km 65m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.15km 70m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.35km 50m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.26km 90m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.44km 120m</p>
+</blockquote></td>
+<td>1.8km 25m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>8</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>1.84km 40m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.76km 30m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.29km 5m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.23km 75m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.1k 75m</p>
+</blockquote></td>
+<td>2.24km 20m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>9</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.42km 70m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.07km 50m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.19km 15m</p>
+</blockquote></td>
+<td>2.54km 100m</td>
+<td><blockquote>
+<p>2.28km 60m</p>
+</blockquote></td>
+<td>2.3km 40m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>10</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>2.57km 65m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.76km 65m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.42km 5m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.6km 125m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.03km 95m</p>
+</blockquote></td>
+<td>2.72km 70m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>14</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.6km 110m</p>
+</blockquote></td>
+<td>3.14km 100m</td>
+<td><blockquote>
+<p>1.59km 55m</p>
+</blockquote></td>
+<td>4.24km 135m</td>
+<td><blockquote>
+<p>3.1km 130m</p>
+</blockquote></td>
+<td>3.41km 70m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>15</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.82km 90m</p>
+</blockquote></td>
+<td>3.88km 135m</td>
+<td><blockquote>
+<p>2.15km 70m</p>
+</blockquote></td>
+<td><blockquote>
+<p>4.77km 165m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.84km 190m</p>
+</blockquote></td>
+<td>2.46km 30m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>16</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.6km 110m</p>
+</blockquote></td>
+<td>3.14km 100m</td>
+<td><blockquote>
+<p>1.59km 55m</p>
+</blockquote></td>
+<td>4.24km 135m</td>
+<td><blockquote>
+<p>3.1km 130m</p>
+</blockquote></td>
+<td>3.41km 70m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>17</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.78km 130m</p>
+</blockquote></td>
+<td>3.73km 130m</td>
+<td><blockquote>
+<p>2.25km 105m</p>
+</blockquote></td>
+<td><blockquote>
+<p>4.79km 175m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.78km 160m</p>
+</blockquote></td>
+<td>4.14km 130m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>18</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.03km 115m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.85km 90m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.76km 55m</p>
+</blockquote></td>
+<td>3.76km 120m</td>
+<td><blockquote>
+<p>2.76km 115m</p>
+</blockquote></td>
+<td>1.95km 30m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>19</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.25km 105m</p>
+</blockquote></td>
+<td>3.23km 110m</td>
+<td><blockquote>
+<p>1.71km 75m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.9km 155m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.18km 160m</p>
+</blockquote></td>
+<td>2.26km 25m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>20</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.19km 95m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.42km 90m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.92km 75m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.87km 150m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.76km170m</p>
+</blockquote></td>
+<td>2.34km 30m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>21</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.4km 95m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.5km 130m</p>
+</blockquote></td>
+<td><blockquote>
+<p>1.93km 85m</p>
+</blockquote></td>
+<td><blockquote>
+<p>4.5km 190m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.82km 180m</p>
+</blockquote></td>
+<td>2.35km 30m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>22</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>3.82km 90m</p>
+</blockquote></td>
+<td>3.88km 135m</td>
+<td><blockquote>
+<p>2.15km 70m</p>
+</blockquote></td>
+<td><blockquote>
+<p>4.77km 165m</p>
+</blockquote></td>
+<td><blockquote>
+<p>3.84km 190m</p>
+</blockquote></td>
+<td>2.46km 30m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>23</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>4.04km 180m</p>
+</blockquote></td>
+<td>4.04km 140m</td>
+<td><blockquote>
+<p>2.11km 95m</p>
+</blockquote></td>
+<td>4.81km 175m</td>
+<td><blockquote>
+<p>4.35km 210m</p>
+</blockquote></td>
+<td>2.53km 60m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>24</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>4.2km 135m</p>
+</blockquote></td>
+<td>4.67km 120m</td>
+<td><blockquote>
+<p>2.42km 115m</p>
+</blockquote></td>
+<td>5.21km 205m</td>
+<td><blockquote>
+<p>4.5km 175m</p>
+</blockquote></td>
+<td>2.62km 60m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>25</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>4.42km 170m</p>
+</blockquote></td>
+<td><blockquote>
+<p>4.8km 100m</p>
+</blockquote></td>
+<td><blockquote>
+<p>2.44km 140m</p>
+</blockquote></td>
+<td>5.13km 215m</td>
+<td><blockquote>
+<p>4.82km 215m</p>
+</blockquote></td>
+<td>2.74km 60m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>26</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>4.67km 135m</p>
+</blockquote></td>
+<td>4.75km 150m</td>
+<td><blockquote>
+<p>2.52km 135m</p>
+</blockquote></td>
+<td>5.41km 255m</td>
+<td><blockquote>
+<p>4.95km 210m</p>
+</blockquote></td>
+<td>2.75km 70m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>27</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>5.0km 160m</p>
+</blockquote></td>
+<td>5.12km 150m</td>
+<td><blockquote>
+<p>2.61km 125m</p>
+</blockquote></td>
+<td>6.07km 245m</td>
+<td><blockquote>
+<p>5.18km 230m</p>
+</blockquote></td>
+<td>2.92km 75m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>28</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>4.79km 160m</p>
+</blockquote></td>
+<td>5.31km 125m</td>
+<td><blockquote>
+<p>2.58km 135m</p>
+</blockquote></td>
+<td>6.34km 270m</td>
+<td><blockquote>
+<p>5.59km 260m</p>
+</blockquote></td>
+<td>2.84km 80m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>29</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>5.22km 145m</p>
+</blockquote></td>
+<td>5.06km 170m</td>
+<td><blockquote>
+<p>2.79km 150m</p>
+</blockquote></td>
+<td>6.56km 275m</td>
+<td><blockquote>
+<p>5.36km 225m</p>
+</blockquote></td>
+<td>3.0km 75m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>30</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>5.46km 165m</p>
+</blockquote></td>
+<td>5.85km 155m</td>
+<td><blockquote>
+<p>2.74km 175m</p>
+</blockquote></td>
+<td>6.75km 295m</td>
+<td><blockquote>
+<p>5.85km 230m</p>
+</blockquote></td>
+<td>3.1km 95m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>31</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>5.61km 190m</p>
+</blockquote></td>
+<td>5.55km 145m</td>
+<td><blockquote>
+<p>2.99km 160m</p>
+</blockquote></td>
+<td><blockquote>
+<p>7.11km 315m</p>
+</blockquote></td>
+<td><blockquote>
+<p>6.47km 210m</p>
+</blockquote></td>
+<td>3.39km 85m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>34</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>5.7km 195m</p>
+</blockquote></td>
+<td>6.14km 160m</td>
+<td><blockquote>
+<p>2.98km 170m</p>
+</blockquote></td>
+<td>7.49km 320m</td>
+<td><blockquote>
+<p>6.56km 305m</p>
+</blockquote></td>
+<td>3.4km 95m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>35</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>5.83km 215m</p>
+</blockquote></td>
+<td>6.27km 200m</td>
+<td><blockquote>
+<p>3.1km 160m</p>
+</blockquote></td>
+<td>7.59km 330m</td>
+<td><blockquote>
+<p>6.91km 300m</p>
+</blockquote></td>
+<td>3.56km 95m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>36</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>6.81km 210m</p>
+</blockquote></td>
+<td>6.69km 240m</td>
+<td><blockquote>
+<p>3.76km 165m</p>
+</blockquote></td>
+<td><blockquote>
+<p>8.84km 325m</p>
+</blockquote></td>
+<td><blockquote>
+<p>7.48km 340m</p>
+</blockquote></td>
+<td>3.99km 100m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>37</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>7.38km 215m</p>
+</blockquote></td>
+<td>7.37km 210m</td>
+<td><blockquote>
+<p>3.89km 180m</p>
+</blockquote></td>
+<td>9.32km 415m</td>
+<td><blockquote>
+<p>7.6km 345m</p>
+</blockquote></td>
+<td>4.1km 120m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>38</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>7.1km 270m</p>
+</blockquote></td>
+<td>7.57km 250m</td>
+<td><blockquote>
+<p>4.01km 195m</p>
+</blockquote></td>
+<td>8.85km 430m</td>
+<td><blockquote>
+<p>7.84km 325m</p>
+</blockquote></td>
+<td>4.31km 125m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>39</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>7.64km 285m</p>
+</blockquote></td>
+<td>7.55km 245m</td>
+<td><blockquote>
+<p>4.00km 200m</p>
+</blockquote></td>
+<td>9.37km 435m</td>
+<td><blockquote>
+<p>8.24km 300m</p>
+</blockquote></td>
+<td>4.42km 130m</td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>40</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>7.26km 250m</p>
+</blockquote></td>
+<td>7.04km 275m</td>
+<td><blockquote>
+<p>4.14km 205m</p>
+</blockquote></td>
+<td><blockquote>
+<p>8.89km 410m</p>
+</blockquote></td>
+<td><blockquote>
+<p>9.94km 425m</p>
+</blockquote></td>
+<td>4.23km 125m</td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>41</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p>8.98km 385m</p>
+</blockquote></td>
+<td>8.65km 365m</td>
+<td><blockquote>
+<p>5.2km 250m</p>
+</blockquote></td>
+<td>11.38km 540m</td>
+<td><blockquote>
+<p>13.3km 645m</p>
+</blockquote></td>
+<td>5.57km 140m</td>
+</tr>
+</tbody>
+</table>
 
 
-
- > **Cou | > **Day | **Day   | > **Day | **Day   | > **Day | > **Day 
- rse**   | > 1**   | 2**     | > 3**   | 4**     | > 5**   | > 6**   
----------|---------|---------|---------|---------|---------|---------
-         | > Auchi | > Edinc | > Dundu | > Culte | > Craig | Grandtu 
-         | ngarric | hip     | rn      | uchar   | > a'Bar | lly     
-         | h       |         | > &     | > &     | ns      |         
-         |         |         | > Cnoc  | > Dron  |         |         
-         |         |         | > a'Mha |         |         |         
-         |         |         | daidh   |         |         |         
----------|---------|---------|---------|---------|---------|---------
- > **1** | > 1.84k | > 1.76k | > 1.29k | > 2.23k | > 2.1km | 2.24km  
-         | m       | m       | m       | m       | > 75m   | 20m     
-         | > 40m   | > 30m   | > 5m    | > 75m   |         |         
----------|---------|---------|---------|---------|---------|---------
- > **2** | > 2.42k | > 2.07k | > 2.19k | 2.54km  | > 2.28k | 2.3km   
-         | m       | m       | m       | 100m    | m       | 40m     
-         | > 70m   | > 50m   | > 15m   |         | > 60m   |         
----------|---------|---------|---------|---------|---------|---------
- > **3** | > 2.57k | > 2.76k | > 2.42k | > 3.6km | > 3.03k | 2.72km  
-         | m       | m       | m       | > 125m  | m       | 70m     
-         | > 65m   | > 65m   | > 5m    |         | > 95m   |         
----------|---------|---------|---------|---------|---------|---------
- > **4** | > 2.94k | > 3.13k | > 2.64k | 3.62km  | > 3.46k | 3.09km  
-         | m       | m       | m       | 160m    | m       | 80m     
-         | > 70m   | > 95m   | > 10m   |         | > 150m  |         
----------|---------|---------|---------|---------|---------|---------
- > **5** | > 1.76k | > 1.62k | > 1.12k | > 2.03k | > 1.95k | 1.58km  
-         | m       | m       | m       | m       | m       | 10m     
-         | > 55m   | > 40m   | > 30m   | > 90m   | > 85m   |         
----------|---------|---------|---------|---------|---------|---------
- > **6** | > 2.18k | > 1.85k | > 1.32k | > 2.22k | > 1.91k | 1.68km  
-         | m       | m       | m       | m       | m       | 10m     
-         | > 65m   | > 75m   | > 45m   | > 90m   | > 90m   |         
----------|---------|---------|---------|---------|---------|---------
- > **7** | > 2.4km | > 2.15k | > 1.35k | > 2.26k | > 2.44k | 1.8km   
-         | > 65m   | m       | m       | m       | m       | 25m     
-         |         | > 70m   | > 50m   | > 90m   | > 120m  |         
----------|---------|---------|---------|---------|---------|---------
- > **8** | > 1.84k | > 1.76k | > 1.29k | > 2.23k | > 2.1k  | 2.24km  
-         | m       | m       | m       | m       | > 75m   | 20m     
-         | > 40m   | > 30m   | > 5m    | > 75m   |         |         
----------|---------|---------|---------|---------|---------|---------
- > **9** | > 2.42k | > 2.07k | > 2.19k | 2.54km  | > 2.28k | 2.3km   
-         | m       | m       | m       | 100m    | m       | 40m     
-         | > 70m   | > 50m   | > 15m   |         | > 60m   |         
----------|---------|---------|---------|---------|---------|---------
- > **10* | > 2.57k | > 2.76k | > 2.42k | > 3.6km | > 3.03k | 2.72km  
- *       | m       | m       | m       | > 125m  | m       | 70m     
-         | > 65m   | > 65m   | > 5m    |         | > 95m   |         
----------|---------|---------|---------|---------|---------|---------
- > **14* | > 3.6km | 3.14km  | > 1.59k | 4.24km  | > 3.1km | 3.41km  
- *       | > 110m  | 100m    | m       | 135m    | > 130m  | 70m     
-         |         |         | > 55m   |         |         |         
----------|---------|---------|---------|---------|---------|---------
- > **15* | > 3.82k | 3.88km  | > 2.15k | > 4.77k | > 3.84k | 2.46km  
- *       | m       | 135m    | m       | m       | m       | 30m     
-         | > 90m   |         | > 70m   | > 165m  | > 190m  |         
----------|---------|---------|---------|---------|---------|---------
- > **16* | > 3.6km | 3.14km  | > 1.59k | 4.24km  | > 3.1km | 3.41km  
- *       | > 110m  | 100m    | m       | 135m    | > 130m  | 70m     
-         |         |         | > 55m   |         |         |         
----------|---------|---------|---------|---------|---------|---------
- > **17* | > 3.78k | 3.73km  | > 2.25k | > 4.79k | > 3.78k | 4.14km  
- *       | m       | 130m    | m       | m       | m       | 130m    
-         | > 130m  |         | > 105m  | > 175m  | > 160m  |         
----------|---------|---------|---------|---------|---------|---------
- > **18* | > 3.03k | > 2.85k | > 1.76k | 3.76km  | > 2.76k | 1.95km  
- *       | m       | m       | m       | 120m    | m       | 30m     
-         | > 115m  | > 90m   | > 55m   |         | > 115m  |         
----------|---------|---------|---------|---------|---------|---------
- > **19* | > 3.25k | 3.23km  | > 1.71k | > 3.9km | > 3.18k | 2.26km  
- *       | m       | 110m    | m       | > 155m  | m       | 25m     
-         | > 105m  |         | > 75m   |         | > 160m  |         
----------|---------|---------|---------|---------|---------|---------
- > **20* | > 3.19k | > 3.42k | > 1.92k | > 3.87k | > 3.76k | 2.34km  
- *       | m       | m       | m       | m       | m170m   | 30m     
-         | > 95m   | > 90m   | > 75m   | > 150m  |         |         
----------|---------|---------|---------|---------|---------|---------
- > **21* | > 3.4km | > 3.5km | > 1.93k | > 4.5km | > 3.82k | 2.35km  
- *       | > 95m   | > 130m  | m       | > 190m  | m       | 30m     
-         |         |         | > 85m   |         | > 180m  |         
----------|---------|---------|---------|---------|---------|---------
- > **22* | > 3.82k | 3.88km  | > 2.15k | > 4.77k | > 3.84k | 2.46km  
- *       | m       | 135m    | m       | m       | m       | 30m     
-         | > 90m   |         | > 70m   | > 165m  | > 190m  |         
----------|---------|---------|---------|---------|---------|---------
- > **23* | > 4.04k | 4.04km  | > 2.11k | 4.81km  | > 4.35k | 2.53km  
- *       | m       | 140m    | m       | 175m    | m       | 60m     
-         | > 180m  |         | > 95m   |         | > 210m  |         
----------|---------|---------|---------|---------|---------|---------
- > **24* | > 4.2km | 4.67km  | > 2.42k | 5.21km  | > 4.5km | 2.62km  
- *       | > 135m  | 120m    | m       | 205m    | > 175m  | 60m     
-         |         |         | > 115m  |         |         |         
----------|---------|---------|---------|---------|---------|---------
- > **25* | > 4.42k | > 4.8km | > 2.44k | 5.13km  | > 4.82k | 2.74km  
- *       | m       | > 100m  | m       | 215m    | m       | 60m     
-         | > 170m  |         | > 140m  |         | > 215m  |         
----------|---------|---------|---------|---------|---------|---------
- > **26* | > 4.67k | 4.75km  | > 2.52k | 5.41km  | > 4.95k | 2.75km  
- *       | m       | 150m    | m       | 255m    | m       | 70m     
-         | > 135m  |         | > 135m  |         | > 210m  |         
----------|---------|---------|---------|---------|---------|---------
- > **27* | > 5.0km | 5.12km  | > 2.61k | 6.07km  | > 5.18k | 2.92km  
- *       | > 160m  | 150m    | m       | 245m    | m       | 75m     
-         |         |         | > 125m  |         | > 230m  |         
----------|---------|---------|---------|---------|---------|---------
- > **28* | > 4.79k | 5.31km  | > 2.58k | 6.34km  | > 5.59k | 2.84km  
- *       | m       | 125m    | m       | 270m    | m       | 80m     
-         | > 160m  |         | > 135m  |         | > 260m  |         
----------|---------|---------|---------|---------|---------|---------
- > **29* | > 5.22k | 5.06km  | > 2.79k | 6.56km  | > 5.36k | 3.0km   
- *       | m       | 170m    | m       | 275m    | m       | 75m     
-         | > 145m  |         | > 150m  |         | > 225m  |         
----------|---------|---------|---------|---------|---------|---------
- > **30* | > 5.46k | 5.85km  | > 2.74k | 6.75km  | > 5.85k | 3.1km   
- *       | m       | 155m    | m       | 295m    | m       | 95m     
-         | > 165m  |         | > 175m  |         | > 230m  |         
----------|---------|---------|---------|---------|---------|---------
- > **31* | > 5.61k | 5.55km  | > 2.99k | > 7.11k | > 6.47k | 3.39km  
- *       | m       | 145m    | m       | m       | m       | 85m     
-         | > 190m  |         | > 160m  | > 315m  | > 210m  |         
----------|---------|---------|---------|---------|---------|---------
- > **34* | > 5.7km | 6.14km  | > 2.98k | 7.49km  | > 6.56k | 3.4km   
- *       | > 195m  | 160m    | m       | 320m    | m       | 95m     
-         |         |         | > 170m  |         | > 305m  |         
----------|---------|---------|---------|---------|---------|---------
- > **35* | > 5.83k | 6.27km  | > 3.1km | 7.59km  | > 6.91k | 3.56km  
- *       | m       | 200m    | > 160m  | 330m    | m       | 95m     
-         | > 215m  |         |         |         | > 300m  |         
----------|---------|---------|---------|---------|---------|---------
- > **36* | > 6.81k | 6.69km  | > 3.76k | > 8.84k | > 7.48k | 3.99km  
- *       | m       | 240m    | m       | m       | m       | 100m    
-         | > 210m  |         | > 165m  | > 325m  | > 340m  |         
----------|---------|---------|---------|---------|---------|---------
- > **37* | > 7.38k | 7.37km  | > 3.89k | 9.32km  | > 7.6km | 4.1km   
- *       | m       | 210m    | m       | 415m    | > 345m  | 120m    
-         | > 215m  |         | > 180m  |         |         |         
----------|---------|---------|---------|---------|---------|---------
- > **38* | > 7.1km | 7.57km  | > 4.01k | 8.85km  | > 7.84k | 4.31km  
- *       | > 270m  | 250m    | m       | 430m    | m       | 125m    
-         |         |         | > 195m  |         | > 325m  |         
----------|---------|---------|---------|---------|---------|---------
- > **39* | > 7.64k | 7.55km  | > 4.00k | 9.37km  | > 8.24k | 4.42km  
- *       | m       | 245m    | m       | 435m    | m       | 130m    
-         | > 285m  |         | > 200m  |         | > 300m  |         
----------|---------|---------|---------|---------|---------|---------
- > **40* | > 7.26k | 7.04km  | > 4.14k | > 8.89k | > 9.94k | 4.23km  
- *       | m       | 275m    | m       | m       | m       | 125m    
-         | > 250m  |         | > 205m  | > 410m  | > 425m  |         
----------|---------|---------|---------|---------|---------|---------
- > **41* | > 8.98k | 8.65km  | > 5.2km | 11.38km | > 13.3k | 5.57km  
- *       | m       | 365m    | > 250m  | 540m    | m       | 140m    
-         | > 385m  |         |         |         | > 645m  |         
----------|---------|---------|---------|---------|---------|---------
-
-> T.O'Brien, Technical Director.
