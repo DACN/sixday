@@ -6,8 +6,6 @@ draft: false
 ---
 
 
-####Registration
-
 Registration is at Morrison’s Academy,
 Ferntower Rd, Crieff, PH7 3AN.
 
