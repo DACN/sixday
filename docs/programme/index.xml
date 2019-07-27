@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scottish 6 Days</title>
-    <link>/</link>
-    <description>Recent content on Scottish 6 Days</description>
+    <title>Programme on Scottish 6 Days</title>
+    <link>/programme/</link>
+    <description>Recent content in Programme on Scottish 6 Days</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Wed, 29 May 2019 18:19:11 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/programme/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Day 1</title>
-      <link>/bulletin/</link>
-      <pubDate>Wed, 29 May 2019 18:19:11 +0100</pubDate>
-      
-      <guid>/bulletin/</guid>
-      <description> Welcome to the Scottish Six Days </description>
-    </item>
     
     <item>
       <title>Day 1 (UKOL)</title>

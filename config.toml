@@ -18,9 +18,9 @@ publishDir = "docs"
     url = "/results/"
     weight = 2
   [[menu.main]]
-    name = "Programme and News"
+    name = "Programme"
     pre = "info"
-    url = "/news/"
+    url = "/programme/"
     weight = 3
   [[menu.results]]
     name = "Live results"
