@@ -18,6 +18,11 @@ publishDir = "docs"
     url = "/results/"
     weight = 2
   [[menu.main]]
+    name = "Daily News"
+    pre = "info"
+    url = "/dailynews/"
+    weight = 3
+  [[menu.main]]
     name = "Programme"
     pre = "info"
     url = "/programme/"
