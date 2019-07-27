@@ -5,4 +5,5 @@ Click on the menu at the top of the page for
 * [Results](/results/)
     * [Live results](/results/live/index.html);
     * [Previous days results](/results/); 
-* [Programme information and news](/news/)
+* [Daily news](/dailynews/)
+* [Programme](/programme/)
