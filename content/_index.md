@@ -3,7 +3,5 @@
 Click on the menu at the top of the page for 
 
 * [Results](/results/)
-    * [Live results](/results/live/index.html);
-    * [Previous days results](/results/); 
 * [Daily news](/dailynews/)
 * [Programme](/programme/)
