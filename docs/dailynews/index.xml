@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dailynews on Scottish 6 Days</title>
+    <link>/dailynews/</link>
+    <description>Recent content in Dailynews on Scottish 6 Days</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 29 May 2019 18:19:11 +0100</lastBuildDate>
+    
+	<atom:link href="/dailynews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Todays News</title>
+      <link>/dailynews/todays_news/</link>
+      <pubDate>Wed, 29 May 2019 18:19:11 +0100</pubDate>
+      
+      <guid>/dailynews/todays_news/</guid>
+      <description> And we are underway.  The teams are out busy building the arena at Auchingarrich Controls are out and being checked for the first couple of areas The build of the hall for registration is in full swing  </description>
+    </item>
+    
+  </channel>
+</rss>
